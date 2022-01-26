@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Used Technologies
+- NestJs
+- Bull Module
+- Mailer Module
+
 ## Installation
 
 ```bash
